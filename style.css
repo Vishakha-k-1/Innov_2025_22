@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+#upload-container {
+    margin-bottom: 20px;
+}
+
+#plant-info {
+    border: 1px solid #ccc;
+    padding: 15px;
+    text-align: center;
+}

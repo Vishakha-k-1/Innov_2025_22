@@ -1,0 +1,50 @@
+[
+    {
+      "common_name": "Tulsi",
+      "model_path": "models/tulsi_tree_on_a_cement_tub.glb",
+      "scientific_name": "Ocimum tenuiflorum",
+      "medicinal_uses": "Tulsi, also known as Holy Basil, is revered for its medicinal properties in traditional Ayurvedic medicine. It's used to treat a variety of ailments, including coughs, colds, fevers, and digestive issues. It's also believed to have stress-reducing and immune-boosting effects.",
+      "parts_used": "Leaves, stem, seeds.",
+      "precautions": "While generally safe, pregnant and breastfeeding women should consult their doctor before using tulsi. It may also interact with certain medications."
+    },
+    {
+      "common_name": "Aloe Vera",
+      "model_path": "models/foliage_asset_3d_aloe_vera_plant.glb",
+      "scientific_name": "Aloe barbadensis miller",
+      "medicinal_uses": "Aloe vera is well-known for its soothing properties. The gel from its leaves is used to treat burns, sunburns, and other skin irritations. It can also be taken internally to relieve constipation and may have anti-inflammatory effects.",
+      "parts_used": "Leaves, gel.",
+      "precautions": "Aloe vera gel is generally safe for topical use, but some people may experience allergic reactions. Internal use of aloe vera latex (the yellow sap beneath the leaf's outer layer) can cause diarrhea and abdominal cramps. Long-term use should be avoided."
+    },
+    {
+      "common_name": "Ginger",
+      "model_path": "models/ginger_root.glb",
+      "scientific_name": "Zingiber officinale",
+      "medicinal_uses": "Ginger is a common spice and traditional remedy. It's effective for relieving nausea, vomiting, and motion sickness. It can also aid digestion, reduce inflammation, and relieve pain.",
+      "parts_used": "Rhizome (root).",
+      "precautions": "Ginger is generally safe in moderate amounts. However, high doses can cause heartburn, diarrhea, and stomach upset. It may also interact with blood-thinning medications."
+    },
+    {
+      "common_name": "Mint",
+      "model_path": "models/mint_leaves.glb",
+      "scientific_name": "Mentha spp.",
+      "medicinal_uses": "Mint is used to relieve indigestion, headaches, and congestion. It is also used to freshen breath, and can also soothe irritated skin.",
+      "parts_used": "Leaves.",
+      "precautions": "Mint can cause heartburn in some individuals. Large amounts of peppermint oil can be toxic. Use with caution during pregnancy."
+    },
+    {
+      "common_name": "Rosemary",
+      "model_path": "models/realistic_hd_rosemary_willow_8199.glb",
+      "scientific_name": "Salvia rosmarinus",
+      "medicinal_uses": "Rosemary is used to improve memory, relieve muscle pain, and promote hair growth. It also has antioxidant and anti-inflammatory properties.",
+      "parts_used": "Leaves, oil.",
+      "precautions": "Rosemary oil should be used with caution, as it can be toxic in high doses. Avoid during pregnancy."
+    },
+    {
+      "common_name": "Chamomile",
+      "model_path": "models/chamomile.glb",
+      "scientific_name": "Matricaria chamomilla",
+      "medicinal_uses": "Chamomile is used to promote relaxation, reduce anxiety, and aid sleep. It can also soothe skin irritations and relieve digestive upset.",
+      "parts_used": "Flowers.",
+      "precautions": "Chamomile can cause allergic reactions in some individuals, especially those with ragweed allergies. Use with caution during pregnancy."
+    }
+  ]
