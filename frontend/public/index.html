@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Virtual Herbal Garden</title>
+  
+  <!-- ✅ Dialogflow Chatbot Script -->
+  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+
+  <!-- ✅ Custom Chatbot Styles (Green Palette) -->
+  <style>
+    df-messenger {
+      --df-messenger-bot-message: #f3efbc;  /* Chatbot messages - Medium Green */
+      --df-messenger-button-titlebar-color: #5a835d; /* Chat header - Dark Green */
+      --df-messenger-chat-background: #C8E6C9; /* Chat background - Light Green */
+      --df-messenger-font-color: #000000; /* Text color - Black */
+      --df-messenger-send-icon: #2E7D32; /* Send button - Dark Green */
+      --df-messenger-user-message: #81C784; /* User message bubble - Soft Green */
+      --df-messenger-input-border: #4CAF50; /* Input field border - Classic Green */
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+
+  <df-messenger
+    intent="WELCOME"
+    chat-title="Herbal Assistant🌿"
+    agent-id="559e8e55-eeb5-4f0d-a83f-8b02ff2ad2f7"
+    language-code="en"
+  ></df-messenger>
+</body>
+</html>

@@ -1,0 +1,151 @@
+{"Kadha": {
+      "ingredients": ["Tulsi", "Ginger", "Cinnamon", "Black Pepper", "Clove", "Honey"],
+      "benefits": "Boosts immunity, fights infections, reduces inflammation, supports respiratory health.",
+      "treats": ["cold", "cough", "flu", "sore throat", "weak immunity"]
+    },
+    "Turmeric Milk": {
+      "ingredients": ["Turmeric", "Black Pepper", "Honey", "Warm Milk"],
+      "benefits": "Boosts immunity, relieves sore throat, has anti-inflammatory properties.",
+      "treats": ["cough", "sore throat", "joint pain", "weak immunity", "inflammation"]
+    },
+    "Ginger Honey": {
+      "ingredients": ["Ginger", "Honey", "Lemon Juice", "Warm Water"],
+      "benefits": "Relieves sore throat, soothes irritation, fights infections, boosts immunity.",
+      "treats": ["sore throat", "cough", "cold", "flu", "weak immunity"]
+    },
+    "Neem Paste": {
+      "ingredients": ["Neem Leaves", "Turmeric", "Rose Water", "Lemon Juice"],
+      "benefits": "Detoxifies skin, treats acne, reduces blemishes, controls excess oil.",
+      "treats": ["acne", "skin infections", "blemishes", "oily skin"]
+    },
+    "Hing Water": {
+      "ingredients": ["Asafoetida", "Warm Water", "Black Salt"],
+      "benefits": "Relieves bloating, aids digestion, reduces stomach pain, prevents constipation.",
+      "treats": ["indigestion", "bloating", "stomach pain", "gas", "constipation"]
+    },
+    "Triphala Churna": {
+      "ingredients": ["Amla", "Bibhitaki", "Haritaki"],
+      "benefits": "Aids digestion, detoxifies the body, improves bowel movements, supports weight management.",
+      "treats": ["constipation", "indigestion", "bloating", "weight management"]
+    },
+    "Aloe Vera Juice": {
+      "ingredients": ["Aloe Vera Gel", "Water", "Lemon Juice (optional)"],
+      "benefits": "Soothes inflammation, aids digestion, promotes skin health, boosts immunity.",
+      "treats": ["indigestion", "heartburn", "skin irritation", "minor burns"]
+    },
+    "Fennel Seed Water": {
+      "ingredients": ["Fennel Seeds", "Water"],
+      "benefits": "Relieves bloating, aids digestion, freshens breath, reduces water retention.",
+      "treats": ["bloating", "gas", "indigestion", "bad breath"]
+    },
+    "Buttermilk": {
+      "ingredients": ["Curd", "Water", "Salt", "Ginger (optional)", "Cumin (optional)"],
+      "benefits": "Cools the body, aids digestion, provides probiotics, replenishes electrolytes.",
+      "treats": ["indigestion", "dehydration", "heatstroke", "acidity"]
+    },
+    "Coriander Seed Water": {
+      "ingredients": ["Coriander Seeds", "Water"],
+      "benefits": "Cools the body, aids digestion, reduces inflammation, helps in lowering blood sugar.",
+      "treats": ["indigestion", "inflammation", "high blood sugar", "heatstroke"]
+    },
+    "Ajwain Water": {
+      "ingredients": ["Ajwain Seeds", "Water"],
+      "benefits": "Relieves acidity, aids digestion, reduces gas, soothes stomach cramps.",
+      "treats": ["acidity", "indigestion", "gas", "stomach cramps"]
+    },
+    "Cumin Seed Water": {
+      "ingredients": ["Cumin Seeds", "Water"],
+      "benefits": "Aids digestion, reduces bloating, boosts metabolism, rich in iron.",
+      "treats": ["indigestion", "bloating", "flatulence", "anemia"]
+    },
+    "Mint Tea": {
+      "ingredients": ["Mint Leaves", "Hot Water", "Honey (optional)"],
+      "benefits": "Relieves indigestion, soothes stomach upset, freshens breath, reduces stress.",
+      "treats": ["indigestion", "nausea", "headaches", "stress"]
+    },
+    "Licorice Root Tea": {
+      "ingredients": ["Licorice Root", "Hot Water"],
+      "benefits": "Soothes sore throat, aids digestion, relieves coughs, has anti-inflammatory properties.",
+      "treats": ["sore throat", "cough", "acid reflux", "stomach ulcers"]
+    },
+    "Chamomile Tea": {
+      "ingredients": ["Chamomile Flowers", "Hot Water"],
+      "benefits": "Promotes relaxation, aids sleep, soothes stomach upset, reduces anxiety.",
+      "treats": ["insomnia", "anxiety", "indigestion", "muscle spasms"]
+    },
+    "Lemon Ginger Tea": {
+      "ingredients": ["Lemon", "Ginger", "Hot Water", "Honey (optional)"],
+      "benefits": "Boosts immunity, aids digestion, relieves nausea, soothes sore throat.",
+      "treats": ["nausea", "cold", "flu", "sore throat"]
+    },
+    "Fenugreek Seed Water": {
+      "ingredients": ["Fenugreek Seeds", "Water"],
+      "benefits": "Helps control blood sugar, aids digestion, increases milk production in lactating women.",
+      "treats": ["high blood sugar", "indigestion", "low milk supply"]
+    },
+    "Garlic Honey": {
+      "ingredients": ["Garlic", "Honey"],
+      "benefits": "Boosts immunity, fights infections, lowers cholesterol, improves heart health.",
+      "treats": ["cold", "cough", "high cholesterol", "weak immunity"]
+    },
+    "Onion Juice": {
+      "ingredients": ["Onion"],
+      "benefits": "Relieves cough, soothes sore throat, promotes hair growth, reduces dandruff.",
+      "treats": ["cough", "sore throat", "hair loss", "dandruff"]
+    },
+    "Amla Juice": {
+      "ingredients": ["Amla"],
+      "benefits": "Rich in Vitamin C, boosts immunity, improves digestion, promotes hair growth.",
+      "treats": ["weak immunity", "indigestion", "hair loss"]
+    },
+    "Pomegranate Juice": {
+      "ingredients": ["Pomegranate"],
+      "benefits": "Rich in antioxidants, improves heart health, boosts immunity, aids digestion.",
+      "treats": ["heart health", "weak immunity", "indigestion"]
+    },
+      "Beetroot Juice": {
+          "ingredients": ["Beetroot"],
+          "benefits": "Improves blood flow, lowers blood pressure, enhances athletic performance, rich in antioxidants.",
+          "treats": ["high blood pressure", "low energy", "anemia"]
+      },
+      "Carrot Juice": {
+          "ingredients": ["Carrots"],
+          "benefits": "Rich in Vitamin A, improves vision, boosts immunity, promotes healthy skin.",
+          "treats": ["poor vision", "weak immunity", "skin problems"]
+      },
+      "Spinach Juice":{
+          "ingredients": ["Spinach"],
+          "benefits": "Rich in iron, vitamins, and minerals, boosts energy, improves blood health.",
+          "treats": ["anemia", "low energy"]
+      },
+      "Coconut Water": {
+          "ingredients": ["Coconut Water"],
+          "benefits": "Hydrates the body, replenishes electrolytes, aids digestion, rich in potassium.",
+          "treats": ["dehydration", "electrolyte imbalance"]
+      },
+      "Barley Water":{
+          "ingredients":["Barley", "Water"],
+          "benefits":"Aids digestion, cools the body, helps in weight loss, lowers cholesterol.",
+          "treats":["indigestion","high cholesterol","weight management"]
+      },
+      "Rose Water":{
+          "ingredients":["Rose Petals","Water"],
+          "benefits":"Soothes skin irritation, reduces redness, improves mood, hydrates skin.",
+          "treats":["skin irritation","redness","dry skin"]
+      },
+      "Mustard Seed Paste":{
+          "ingredients":["Mustard Seeds", "Water"],
+          "benefits":"Relieves muscle pain, reduces inflammation, improves blood circulation.",
+          "treats":["muscle pain","inflammation"]
+      },
+      "Clay Pack (Multani Mitti)":{
+          "ingredients":["Multani Mitti","Water"],
+          "benefits":"Cleanses skin, absorbs excess oil, reduces acne, cools skin.",
+          "treats":["acne","oily skin","skin blemishes"]
+      },
+      "Rice Water":{
+          "ingredients":["Rice","Water"],
+          "benefits":"Soothes skin irritation, improves hair texture, aids digestion.",
+          "treats":["skin irritation","hair problems","diarrhea"]
+      }
+  }
